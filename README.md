@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AyushMudiraj
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++, Python
+- 🌱 I’m currently learning Python, AI prompt engineering.
 
 <!---
 AyushMudiraj/AyushMudiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
